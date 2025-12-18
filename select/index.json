@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "拝啓、あの日の少女",
+  "base_artist": "BOY MEETS HARU",
+  "createdAt": "2025-12-18T10:08:34.337007Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "拝啓、あの日の少女",
+      "artist": "BOY MEETS HARU",
+      "has_synced": false,
+      "path": "select/pl_01_拝啓、あの日の少女_BOY_MEETS_HARU.txt"
+    }
+  ]
+}
